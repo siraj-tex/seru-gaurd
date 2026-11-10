@@ -5,6 +5,16 @@ node_modules/
 Thumbs.db
 .DS_Store
 
+# Chrome unpacked generated cache
+_metadata/
+extension/_metadata/
+
+# Build and distribution archives
+dist/
+
 # Logs and temp files
 *.log
 *.tmp
+
+# Agent / Environment metadata
+.agents/

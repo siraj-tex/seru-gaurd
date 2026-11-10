@@ -66,7 +66,7 @@ class BrowserInfo {
     }[this.getBrowserName()];
   }
   getRateUrl() {
-    return 'https://chromewebstore.google.com/detail/stands-adblocker/lgblnfidahcdcjddiepkckcfdhpknnjh/reviews';
+    return 'https://github.com/seru-guard/seru-guard';
   }
 }
 const browserInfo = new BrowserInfo();

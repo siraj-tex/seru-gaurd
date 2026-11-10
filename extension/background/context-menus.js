@@ -9,7 +9,7 @@ class ContextMenus {
     separatorOnPage: 'separator-page',
     siteDisable: 'site-disable',
     siteDisableOnPage: 'site-disable-page',
-    pageMenuParent: 'stands-page',
+    pageMenuParent: 'seru-guard-page',
     unblock: 'unblock-elements',
     unblockOnPage: 'unblock-elements-page'
   };

@@ -3,7 +3,7 @@
 browser.runtime.onMessage.addListener(handleWindowMessages);
 window.addEventListener('message', handleWindowMessagesInContent, false);
 async function handleWindowMessagesInContent(event) {
-  if (getUrlHost(event.origin) === 'standsapp.org' && event.data.type === MESSAGE_TYPES.openSettingsPage) {
+  if (false && event.data.type === MESSAGE_TYPES.openSettingsPage) {
     await sendMessage({
       type: MESSAGE_TYPES.openSettingsPage,
       payload: null

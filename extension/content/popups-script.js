@@ -352,7 +352,7 @@ function blockPopupsFunc({
       </button>
     </div>
     <div class="stndz-popup-notification-help">
-      The site tried to open a popup and Stands blocked it.
+      The site tried to open a popup and SERU GUARD blocked it.
       <br />
       If you don't trust this site you should click <b>"Block always"</b>, if you do click <b>"Allow always"</b>.
       <br />
