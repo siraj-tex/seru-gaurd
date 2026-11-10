@@ -1,0 +1,19 @@
+{
+  "name": "seru-guard",
+  "version": "1.0.0",
+  "description": "Fast, lightweight, open-source & privacy-first ad blocker for Chrome & Chromium browsers",
+  "license": "MIT",
+  "scripts": {
+    "package": "node scripts/package.js",
+    "validate": "node scripts/validate.js"
+  },
+  "keywords": [
+    "adblocker",
+    "privacy",
+    "declarative-net-request",
+    "manifest-v3",
+    "chrome-extension",
+    "open-source"
+  ]
+}
+
